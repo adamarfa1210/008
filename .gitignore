@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+
+# Hardware source file (excluded per request)
+IoT.cc
+
+# Local & environment files
+*.local
+.env
+.env.*
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
